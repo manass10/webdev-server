@@ -1,0 +1,5 @@
+[
+  { "_id": "RS101", "name": "CS1234 React JS", "number": "CS1234", "startDate": "2023-09-10", "endDate": "2023-12-15", "department": "D123", "credits": 4, "description": "Full-stack software development with React", "image": "/images/reactjs.svg" },
+  { "_id": "RS102", "name": "CS5678 Web Development", "number": "CS5678", "startDate": "2023-09-10", "endDate": "2023-12-15", "department": "D123", "credits": 4, "description": "Full-stack Next.js applications", "image": "/images/reactjs.svg" },
+  { "_id": "RS103", "name": "CS9012 Database Management", "number": "CS9012", "startDate": "2023-09-10", "endDate": "2023-12-15", "department": "D123", "credits": 4, "description": "Relational and NoSQL databases", "image": "/images/reactjs.svg" }
+]
